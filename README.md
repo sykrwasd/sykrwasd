@@ -1,6 +1,9 @@
 # 💫 About Me:
-Studying<br>love ai<br>
 
+- 🎓 Currently studying and exploring new technologies  
+- 🤖 Passionate about AI and machine learning  
+- 💻 Enjoy building useful tools with code  
+- 🌱 Always learning, always curious  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Umar Syakir Harun](https://www.linkedin.com/in/umar-syakir-harun-b9a5b3319/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nzsykr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umarsyakir16@gmail.com) 
