@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Umar Syakir
 <div align="center" style="margin-bottom: 1rem;">
-  <img src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif" alt="Header GIF" style="max-width: 100%; height: 500px;" />
+  <img src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif" alt="Header GIF" style=" width:500px ;height: 500px;" />
 </div>
 
 ---
