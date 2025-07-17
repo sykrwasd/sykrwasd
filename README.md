@@ -1,5 +1,7 @@
 # 👋 Hi there! I'm Umar Syakir
-
+<div style="text-align: center; margin-bottom: 1rem;">
+  <img src="[your-gif-url.gif](https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif)" alt="Header GIF" style="max-width: 100%; height: auto;">
+</div>
 🎓 A tech enthusiast currently pursuing studies in Computer Science, passionate about building real-world solutions through clean, efficient code — from backend systems to mobile interfaces.
 
 ---
