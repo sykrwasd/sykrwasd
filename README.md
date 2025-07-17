@@ -5,10 +5,22 @@
 - 💻 Enjoy building useful tools with code  
 - 🌱 Always learning, always curious  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-syakir-harun-b9a5b3319)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nzsykr)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umarsyakir16@gmail.com)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+  <a href="https://www.linkedin.com/in/umar-syakir-harun-b9a5b3319">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://x.com/nzsykr">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+  </a>
+
+  <a href="mailto:umarsyakir16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+</div>
+
 
 
 # 💻 Tech Stack:
