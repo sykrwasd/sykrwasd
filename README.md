@@ -5,6 +5,7 @@
 - 💻 Enjoy building useful tools with code  
 - 🌱 Always learning, always curious  
 
+# 📬 Socials:
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
   <a href="https://www.linkedin.com/in/umar-syakir-harun-b9a5b3319">
