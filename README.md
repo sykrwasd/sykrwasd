@@ -1,20 +1,4 @@
 # 👋 Hi there! I'm Umar Syakir
-<div align="center" style="margin-bottom: 1rem;">
-  <img src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif" alt="Header GIF" style=" width:450px ;height: 450px;" />
-</div>
-
----
-
-### 💡 About Me
-
-- 🤖 Passionate about AI, machine learning, and automation  
-- 🛠️ I build useful tools — web apps, bots, scripts, and more  
-- 💾 I enjoy working with databases, backend logic, and data flow  
-- 🎨 I also like clean design, good UI/UX, and user-first features  
-- 🌱 Constantly exploring new frameworks, tools, and technologies  
-
----
-
 ### 🧰 Tech Stack
 
 **Languages:**  
