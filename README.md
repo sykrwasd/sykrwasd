@@ -22,11 +22,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sykrwasd&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sykrwasd&layout=compact&theme=tokyonight" height="165" />
-</p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=sykrwasd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 📬 Get in Touch
