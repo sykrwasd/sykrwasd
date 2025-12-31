@@ -1,6 +1,13 @@
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/93269682-7684-462a-8eb5-7c691f19acb6" />
+<img width="200" height="200" alt="Umar Syakir" src="https://github.com/user-attachments/assets/93269682-7684-462a-8eb5-7c691f19acb6" />
+
 # Hi there! I'm Umar Syakir
+
+💻 I love to code and want to build something massive one day.
+
+---
+
 ## Have Worked with:
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -24,11 +31,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
-### 📬 Get in Touch
-
-- 📩 Email: [umarsyakir16@gmail.com](mailto:umarsyakir16@gmail.com)  
+## 📬 Get in Touch
+- ✉️ Email: [umarsyakir16@gmail.com](mailto:umarsyakir16@gmail.com)  
 - 🌐 LinkedIn: [linkedin.com/in/umar-syakir-harun-b9a5b3319](https://www.linkedin.com/in/umar-syakir-harun-b9a5b3319)  
 - 🐦 X: [x.com/nzsykr](https://x.com/nzsykr)
-
-<!-- Proudly crafted by Umar Syakir -->
