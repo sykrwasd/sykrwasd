@@ -1,5 +1,4 @@
-![Gif](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/93269682-7684-462a-8eb5-7c691f19acb6" />
-)
+![Gif]([<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/93269682-7684-462a-8eb5-7c691f19acb6" />](https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif))
 # Hi there! I'm Umar Syakir
 ## Have Worked with:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
