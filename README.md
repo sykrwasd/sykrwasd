@@ -37,5 +37,5 @@
 
 ## 📬 Get in Touch
 - ✉️ Email: [umarsyakir16@gmail.com](mailto:umarsyakir16@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/umar-syakir-harun-b9a5b3319](https://www.linkedin.com/in/umar-syakir-harun-b9a5b3319)  
-- 🐦 X: [x.com/nzsykr](https://x.com/nzsykr)
+- 🌐 LinkedIn: [linkedin.com/in/umarsyakirharun](https://www.linkedin.com/in/umarsyakirharun)  
+- 🐦 X: [x.com/sykrwasd](https://x.com/sykrwasd)
