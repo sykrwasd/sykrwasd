@@ -39,3 +39,4 @@
 - ✉️ Email: [umarsyakir16@gmail.com](mailto:umarsyakir16@gmail.com)  
 - 🌐 LinkedIn: [linkedin.com/in/umarsyakirharun](https://www.linkedin.com/in/umarsyakirharun)  
 - 🐦 X: [x.com/sykrwasd](https://x.com/sykrwasd)
+- 💻 Personal site : [sykrwasd.my](https://sykrwasd.my)
